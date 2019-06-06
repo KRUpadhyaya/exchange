@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.xyz.exchange.core.service.ConverterImplTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.129 s - in com.xyz.exchange.core.service.ConverterImplTest
