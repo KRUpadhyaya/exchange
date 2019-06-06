@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: web
+Implementation-Version: 0.1.1
+Built-By: Rama
+Implementation-Vendor-Id: exchange
+Build-Jdk: 1.8.0_152
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/exchange/exchange-web
+Created-By: Maven Integration for Eclipse
+
